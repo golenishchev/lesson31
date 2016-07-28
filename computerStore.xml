@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computerstore>
+    <catalogcomputers id="1">
+        <computer id="1">
+            <title>Computer1</title>
+            <type>Desktop</type>
+            <amount>10</amount>
+        </computer>
+        <computer id="2">
+            <title>Computer2</title>
+            <type>Laptop</type>
+            <amount>20</amount>
+        </computer>
+        <computer id="3">
+            <title>Computer3</title>
+            <type>Tablet</type>
+            <amount>30</amount>
+        </computer>
+    </catalogcomputers>
+</computerstore>
